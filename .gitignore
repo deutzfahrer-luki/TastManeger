@@ -1,0 +1,7 @@
+# Build ortner 
+build/
+
+#Config datei
+*.user
+
+
